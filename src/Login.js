@@ -43,7 +43,7 @@ function Login() {
                     clientId={clientId}
                     buttonText="Sign Out"
                     onLogoutSuccess={onSignoutSuccess}
-                    export const = "WELCOME"
+                    
                 >
                 </GoogleLogout> : null
             }
