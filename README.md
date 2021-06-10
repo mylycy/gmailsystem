@@ -23,13 +23,25 @@ Se der algum erro ao logar devera aparecer a seguinte mensssagem "Erro: As crede
 
 # Fucionalidade do Sistema 
 
-#### ao entrar no sistema clcik no botão "Singn In" -> Digite o email "testcyan1@gmail.com" -> Digite a senha "Test@123456" -> para conclusão click ein "Sign out" para sair do sistema. <br />
+#### ao entrar no sistema clcik no botão "Singn In" -> Digite o email "testcyan1@gmail.com" -> Digite a senha "Test@123456" -> para conclusão click ein "Sign out" para sair do sistema. 
+
+<br />
+
+parte 1
+
+![Gravação de tela de 10-06-2021 20_40_33](https://user-images.githubusercontent.com/83430469/121610991-a37ab880-ca2d-11eb-9da3-154458c011f9.gif)
+
+<br />
+
+parte 2
+
+![Gravação de tela de 10-06-2021 20_41_07](https://user-images.githubusercontent.com/83430469/121611196-184df280-ca2e-11eb-8e83-ed02b71498fe.gif)
 
 
 <br />
 <br />
 
-# Tecnologias (Deste Codigo)
+# Tecnologias (Deste Código)
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -47,7 +59,7 @@ Para a criação do sistema foi necessario criar uma Api de credenciais do Googl
 
 Eu fiz o deploy deste sistema no heroku no link [Sistema](https://gmail-login-system.herokuapp.com/)
 
-Para os testes segue o link de sua documentação estão neste [Readme](https://github.com/mylycy/Gmail-test-cucumber/tree/main/CucumberJava) 
+### Para os testes segue o link de sua documentação, codigo e Readme - [LINK](https://github.com/mylycy/Gmail-test-cucumber/tree/main/CucumberJava) 
 
 
 
