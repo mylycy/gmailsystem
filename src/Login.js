@@ -8,7 +8,7 @@ function Login() {
     const [showloginButton, setShowloginButton] = useState(true);
     const [showlogoutButton, setShowlogoutButton] = useState(false);
     const onLoginSuccess = (res) => {
-        alert ('Sucesso: as credenciais são válidas!!', res.profileObj)
+        alert ('Sucesso: as credenciais são válidas!!', res)
         console.log('Login Success:', res.profileObj);
         setShowloginButton(false);
         setShowlogoutButton(true);
@@ -19,7 +19,7 @@ function Login() {
     };
 
     const onSignoutSuccess = () => {
-        alert("You have been logged out successfully");
+        alert("Tem certeza que quer sair?");
         console.clear();
         setShowloginButton(true);
         setShowlogoutButton(false);
