@@ -49,6 +49,20 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [React](https://pt-br.reactjs.org/)
 - [JavaScript](https://www.javascript.com/)
 - {APIGoogle} (https://cloud.google.com/)
+<br />
+
+### Componentes para instalação
+
+``` $ npm install```
+
+``` $ npm i node```
+
+``` $ npm i react-dom```
+
+### Para inicializar da apliacação
+
+``` $ npm start ```
+
 
 <br />
 <br />
