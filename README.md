@@ -5,6 +5,16 @@ Este é o repositorio do desafio da empresa Cyan para tester.
 
 <br />
 
+## Mapa do Repositório
+
+
+
+![Captura de tela de 2021-06-10 23-35-44](https://user-images.githubusercontent.com/83430469/121622613-b3ea5d80-ca44-11eb-9b95-b2b014d99f6c.png)
+
+
+
+<br />
+
 
 # Apresentação
 
@@ -48,7 +58,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
 - [JavaScript](https://www.javascript.com/)
-- {APIGoogle} (https://cloud.google.com/)
+- [APIGoogle](https://cloud.google.com/)
 <br />
 
 ### Componentes para instalação
